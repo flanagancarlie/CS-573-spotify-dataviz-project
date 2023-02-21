@@ -2,42 +2,38 @@
 
 ## Data
 
-The data I propose to visualize for my project is ...
+The data I propose to visualize for my project is the top 10,000 songs on Spotify. This dataset came from [Kaggle](https://www.kaggle.com/datasets/rakkesharv/spotify-top-10000-streamed-songs).
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
+I’ve created a proof of concept visualization of this data. It's a scatterplot that utilizes a logarithmic scale and it shows the peak position of each artist vs. the number of times the artist has had a song in the top 10,000.
 
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
-
-(please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments, and link to them)
-
-You can make images into links like this:
-
-```
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
-```
-
-
-Also, you can study the [source](https://raw.githubusercontent.com/curran/dataviz-project-template-proposal/master/README.md) to figure out Markdown formatting. You can use the GitHub built-in editor to edit the document.
+[![image](https://github.com/flanagancarlie/spotify-dataviz-project-proposal/blob/master/image.png?raw=true)](https://vizhub.com/flanagancarlie/e0735266df4444bf9ce07f3badc48903)
 
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * (insert your question or task here) How does the X vary over time?
- * (insert your question or task here) Is there any correlation between X and Y?
- * (insert your question or task here) Are there interesting spatial patterns in X?
- * (insert your question or task here) How many X are there across different Y?
+ * Is there a correlation between the quantity of songs each artist has in the top 10,000 and their peak position? What about the quantity of streams?
+ * Which artists/songs have reached #1?
+ * What is the total number of streams (total or peak) for each artist?
+ * Which artist has reached position #1 most often?
+ * What are the top positions of each artist?
+ * What song was at #1 position for the longest period of time?
+ * How does peak position correspond to peak or total streams? 
+ * How many songs in the top 10,000 have never reached the top 10, 100, etc.?
 
 ## Sketches
 
-(insert one or more hand-drawn sketches of interactive visualizations that you imagine)
-(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
+![image](https://github.com/flanagancarlie/spotify-dataviz-project-proposal/blob/master/sketch.png?raw=true)
+This is a sketch plotting the peak position of each artist vs. the number of times the artist has had a song in the top 10,000. This data is visualized as a scatterplot.
+For action items, I imagine the user being able to adjust the y-axis via dropdown. The default will be peak position, but I think it will also be valuable to view other attributes, including peak streams and total strems. The x-axis may also be changed to narrow down the range, for example shortening the view from artists with songs in the top 10,000 to artists with songs in the top 1000, 100, etc, or songs with rank 1.
+I also imagine that each point on the scatterplot will have a tooltip on hover or click, which will show the artist(s) as well as the x and y values. For example, when the scatterplot is of peak position vs. frequency of songs in the top 10k, hovering over a point would show an artist, their peak position, which songs are in the peak position, and their count of songs in the top 10k.
+This relates to the tasks as the user will be able to visualize each of these questions by modifying the viz.
 
 ## Open Questions
-
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
+ * My visualization so far feels too dull. I want to add color to categorize my data somehow, but I'm not sure where this would be useful.
+ * Even after changing my scale from linear to logarithmic, there is still a significant amount of white space. What can I do about this?
 
 ## Milestones
 
