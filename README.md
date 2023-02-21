@@ -37,4 +37,19 @@ This relates to the tasks as the user will be able to visualize each of these qu
 
 ## Milestones
 
-(for each week, estimate what would be accomplised)
+Week 7 - Add color, try to remove white space.
+
+Week 8 - Add interactive dropdown button for x-axis to narrow down the scale.
+
+Week 9 - Add interactive dropdown button for y-axis to change the attribute being plotted.
+
+Week 10 - Implement tooltips on click or hover to view the artist and song data.
+
+Week 11 - Create a visualization that uses small multiples, displaying artists with songs at #1 position.
+
+Week 12 - Add a second view to compare the attributes of all songs, e.g. comparing peak position to total streams.
+
+Week 13 - Add interactions and tooltips to second view. 
+
+Week 14 - Finalize visualizations using professor and student feedback. Make a video presentation demonstrating my project.
+
