@@ -74,4 +74,4 @@ Some other ideas for this dataset included the following:
 
 I would like to thank Professor Curran Kelleher for developing VizHub, where each of these visuals is hosted, as well as teaching an incredibly engaging and educational course. I am also grateful to my fellow students with whom I have had the pleasure to work during this course. 
 
-My final visualization utilizes a multi-view layout inspired by [Eri Kim's MoMA Artworks](https://vizhub.com/IeKimI/19352f8c88a1407ba2ec27940469a1a2?edit=files&file=index.js), and simple tooltips on hover, inspired by [Ming Liu's Greater Boston Map](https://vizhub.com/mingliu815/3b85e5f4e65d40f6883447cfc8fedea7?edit=files&file=index.js).
+My final visualization utilizes a multi-view layout inspired by [Eri Kim's MoMA Artworks](https://vizhub.com/IeKimI/19352f8c88a1407ba2ec27940469a1a2?edit=files&file=index.js), and simple tooltips on hover inspired by [Ming Liu's Greater Boston Map](https://vizhub.com/mingliu815/3b85e5f4e65d40f6883447cfc8fedea7?edit=files&file=index.js).
