@@ -4,6 +4,11 @@
 
 The data I have visualized for my final project is the *Spotify Top 10000 Streamed Songs* dataset on [Kaggle](https://www.kaggle.com/datasets/rakkesharv/spotify-top-10000-streamed-songs). 
 
+## Final Deliverable
+[![image](https://github.com/flanagancarlie/CS-573-spotify-dataviz-project/blob/final/final/final-1.png?raw=true)](https://vizhub.com/flanagancarlie/c0e594f80f3a4bedb4f7ba4af3365a72)
+[![image](https://github.com/flanagancarlie/CS-573-spotify-dataviz-project/blob/final/final/final-2.png?raw=true)](https://vizhub.com/flanagancarlie/c0e594f80f3a4bedb4f7ba4af3365a72)
+[![image](https://github.com/flanagancarlie/CS-573-spotify-dataviz-project/blob/final/final/final-3.png?raw=true)](https://vizhub.com/flanagancarlie/c0e594f80f3a4bedb4f7ba4af3365a72)
+
 ## Sketches
 
 ![image](https://github.com/flanagancarlie/CS-573-spotify-dataviz-project/blob/final/sketches/scatterplot-sketch.png?raw=true)
@@ -49,8 +54,7 @@ The following tasks and questions drove the visualization and interaction decisi
 * Add a second view to compare the attributes of all songs, e.g. comparing peak position to total streams.
 [![image](https://github.com/flanagancarlie/CS-573-spotify-dataviz-project/blob/final/prototypes/bar-chart-prototype.png?raw=true)](https://vizhub.com/flanagancarlie/c0e594f80f3a4bedb4f7ba4af3365a72)
 
-## Final Deliverable
-<iframe width="560" height="350" src="https://vizhub.com/flanagancarlie/c0e594f80f3a4bedb4f7ba4af3365a72?mode=embed" title="Final Project: Spotify Artist Peak Positions" frameborder="0" ></iframe>
+
 
 ## Future Work
 Some other ideas I had for this dataset included the following: 
