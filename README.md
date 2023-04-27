@@ -65,7 +65,7 @@ The following tasks and questions drove the visualization and interaction decisi
 
 Some other ideas for this dataset included the following: 
 * Add a comparison view of [View 3](https://github.com/flanagancarlie/CS-573-spotify-dataviz-project/edit/final/README.md#view-3-artists-streams-per-song), allowing the user to compare two artists' songs side-by-side.
-* A bar chart of the most frequent words/phrases in song titles. ![image](https://github.com/flanagancarlie/CS-573-spotify-dataviz-project/blob/final/prototypes/bar-chart-prototype.png?raw=true)
+* A bar chart of the most frequent words/phrases in song titles. ![image](https://github.com/flanagancarlie/CS-573-spotify-dataviz-project/blob/final/sketches/common-words-sketch.png?raw=true)
 * A pie chart of the most common languages of song/artist names. ![image](https://github.com/flanagancarlie/CS-573-spotify-dataviz-project/blob/final/sketches/language-sketch.png?raw=true)
 * Bar chart comparison of total vs peak streams for each artist/song, including what percentage of streams were peak streams. ![image](https://github.com/flanagancarlie/CS-573-spotify-dataviz-project/blob/final/sketches/streams-sketch.png?raw=true)
 
