@@ -58,7 +58,7 @@ The following tasks and questions drove the visualization and interaction decisi
 [![image](https://github.com/flanagancarlie/CS-573-spotify-dataviz-project/blob/final/prototypes/small-multiples-prototype.png?raw=true)](https://vizhub.com/flanagancarlie/5d5f1e44a75346cdb7ed021cc85f8d20?mode=full)
 
 * Week 12 - Created a bar chart to compare the top 10 artists by streams.
-[![image](https://github.com/flanagancarlie/CS-573-spotify-dataviz-project/blob/final/prototypes/bar-chart-prototype.png?raw=true)](https://vizhub.com/flanagancarlie/c0e594f80f3a4bedb4f7ba4af3365a72)
+[![image](https://github.com/flanagancarlie/CS-573-spotify-dataviz-project/blob/final/prototypes/bar-chart-prototype.png?raw=true)](https://vizhub.com/flanagancarlie/c1759d3256174d1880cc9b82e67991b5)
 
 
 ## Future Work
