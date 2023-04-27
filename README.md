@@ -6,14 +6,13 @@ The data I have visualized for my final project is the *Spotify Top 10000 Stream
 
 
 ## Final Deliverable
-
+### [YouTube](https://youtu.be/WoxZ7YFbKEs")
 ### View 1: Spotify Artist Scatter Plot
 [![image](https://github.com/flanagancarlie/CS-573-spotify-dataviz-project/blob/final/final/final-1.png?raw=true)](https://vizhub.com/flanagancarlie/c0e594f80f3a4bedb4f7ba4af3365a72)
 ### View 2: Top 10 Artists
 [![image](https://github.com/flanagancarlie/CS-573-spotify-dataviz-project/blob/final/final/final-2.png?raw=true)](https://vizhub.com/flanagancarlie/c0e594f80f3a4bedb4f7ba4af3365a72)
 ### View 3: Artists' Streams Per Song
 [![image](https://github.com/flanagancarlie/CS-573-spotify-dataviz-project/blob/final/final/final-3.png?raw=true)](https://vizhub.com/flanagancarlie/c0e594f80f3a4bedb4f7ba4af3365a72)
-
 
 ## Sketches
 
