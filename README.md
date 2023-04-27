@@ -8,7 +8,7 @@ The data I propose to visualize for my project is the top 10,000 songs on Spotif
 
 I’ve created a proof of concept visualization of this data. It's a scatterplot that utilizes a logarithmic scale and it shows the peak position of each artist vs. the number of times the artist has had a song in the top 10,000.
 
-[![image](https://github.com/flanagancarlie/spotify-dataviz-project-proposal/blob/master/image.png?raw=true)](https://vizhub.com/flanagancarlie/e0735266df4444bf9ce07f3badc48903)
+[![image](https://github.com/flanagancarlie/spotify-dataviz-project-proposal/blob/proposal/image.png?raw=true)](https://vizhub.com/flanagancarlie/e0735266df4444bf9ce07f3badc48903)
 
 ## Questions & Tasks
 
@@ -25,7 +25,7 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Sketches
 
-![image](https://github.com/flanagancarlie/spotify-dataviz-project-proposal/blob/master/sketch.png?raw=true)
+![image](https://github.com/flanagancarlie/spotify-dataviz-project-proposal/blob/proposal/sketch.png?raw=true)
 This is a sketch plotting the peak position of each artist vs. the number of times the artist has had a song in the top 10,000. This data is visualized as a scatterplot.
 For action items, I imagine the user being able to adjust the y-axis via dropdown. The default will be peak position, but I think it will also be valuable to view other attributes, including peak streams and total strems. The x-axis may also be changed to narrow down the range, for example shortening the view from artists with songs in the top 10,000 to artists with songs in the top 1000, 100, etc, or songs with rank 1.
 I also imagine that each point on the scatterplot will have a tooltip on hover or click, which will show the artist(s) as well as the x and y values. For example, when the scatterplot is of peak position vs. frequency of songs in the top 10k, hovering over a point would show an artist, their peak position, which songs are in the peak position, and their count of songs in the top 10k.
